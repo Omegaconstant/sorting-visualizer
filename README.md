@@ -1,6 +1,6 @@
-# Sorting Visualizer
 
-![Sorting Visualizer](./images/logo.png)
+[![Sorting Visualizer](./public/images/logo.png)](https://sorting-visualizer-9474.web.app)
+# Sorting Visualizer
 
 Fascinated with DS and various sorting algorithms?!!
 
@@ -47,7 +47,7 @@ To contribute to this project, follow these steps:
 1.  Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/sorting-visualizer.git
+   git clone https://github.com/Omegaconstant/sorting-visualizer.git
    ```
 
 2. **Open the project directory** in your code editor.
